@@ -1,0 +1,372 @@
+Test set results based min-loss-acc pama: cost= 21.33442 accuracy= 0.74295 precision= 0.71513 recall= 0.71446 f-score= 0.69951 
+Epoch: 01 
+Test set results based min-loss-acc pama: cost= 25.55459 accuracy= 0.53448 precision= 0.26270 recall= 0.33659 f-score= 0.24255 
+Test set results based min-loss-acc pama: cost= 19.22473 accuracy= 0.69436 precision= 0.70181 recall= 0.67302 f-score= 0.64000 
+Test set results based min-loss-acc pama: cost= 19.22473 accuracy= 0.69436 precision= 0.70181 recall= 0.67302 f-score= 0.64000 
+Test set results based min-loss-acc pama: cost= 21.33442 accuracy= 0.74295 precision= 0.71513 recall= 0.71446 f-score= 0.69951 
+Test set results based min-loss-acc pama: cost= 37.39078 accuracy= 0.52351 precision= 0.28847 recall= 0.33942 f-score= 0.27034 
+Test set results based min-loss-acc pama: cost= 21.33442 accuracy= 0.74295 precision= 0.71513 recall= 0.71446 f-score= 0.69951 
+Epoch: 01 
+Validation: 00001 val_loss= 27.22009 val_acc= 0.53448 val_f1= 0.23221 
+Epoch: 000001 train_loss= 101.61885 
+Epoch: 02 
+Validation: 00002 val_loss= 26.75485 val_acc= 0.57053 val_f1= 0.38730 
+Epoch: 000002 train_loss= 96.14026 
+Epoch: 03 
+Validation: 00003 val_loss= 25.72495 val_acc= 0.53448 val_f1= 0.23221 
+Epoch: 000003 train_loss= 92.18039 
+Epoch: 04 
+Validation: 00004 val_loss= 24.32091 val_acc= 0.54232 val_f1= 0.26705 
+Epoch: 000004 train_loss= 89.79891 
+Epoch: 05 
+Validation: 00005 val_loss= 24.79333 val_acc= 0.54075 val_f1= 0.25801 
+Epoch: 000005 train_loss= 86.97215 
+Epoch: 06 
+Validation: 00006 val_loss= 23.49630 val_acc= 0.55016 val_f1= 0.29635 
+Epoch: 000006 train_loss= 84.50263 
+Epoch: 07 
+Validation: 00007 val_loss= 23.14827 val_acc= 0.55956 val_f1= 0.33038 
+Epoch: 000007 train_loss= 82.17564 
+Epoch: 08 
+Validation: 00008 val_loss= 24.29852 val_acc= 0.55956 val_f1= 0.32653 
+Epoch: 000008 train_loss= 80.83396 
+Epoch: 09 
+Validation: 00009 val_loss= 22.69752 val_acc= 0.58621 val_f1= 0.39309 
+Epoch: 000009 train_loss= 79.10218 
+Epoch: 10 
+Validation: 00010 val_loss= 21.62908 val_acc= 0.58934 val_f1= 0.40792 
+Epoch: 000010 train_loss= 77.90208 
+Epoch: 11 
+Validation: 00011 val_loss= 21.25514 val_acc= 0.59718 val_f1= 0.42605 
+Epoch: 000011 train_loss= 76.14395 
+Epoch: 12 
+Validation: 00012 val_loss= 22.11062 val_acc= 0.58621 val_f1= 0.38963 
+Epoch: 000012 train_loss= 75.35179 
+Epoch: 13 
+Validation: 00013 val_loss= 21.67159 val_acc= 0.58464 val_f1= 0.39333 
+Epoch: 000013 train_loss= 73.80445 
+Epoch: 14 
+Validation: 00014 val_loss= 20.84545 val_acc= 0.60658 val_f1= 0.44811 
+Epoch: 000014 train_loss= 73.48344 
+Epoch: 15 
+Validation: 00015 val_loss= 20.81697 val_acc= 0.60972 val_f1= 0.45271 
+Epoch: 000015 train_loss= 72.30586 
+Epoch: 16 
+Validation: 00016 val_loss= 21.05402 val_acc= 0.61129 val_f1= 0.45653 
+Epoch: 000016 train_loss= 71.16972 
+Epoch: 17 
+Validation: 00017 val_loss= 21.71468 val_acc= 0.60658 val_f1= 0.44186 
+Epoch: 000017 train_loss= 70.34653 
+Epoch: 18 
+Validation: 00018 val_loss= 20.16388 val_acc= 0.64890 val_f1= 0.53812 
+Epoch: 000018 train_loss= 70.29024 
+Epoch: 19 
+Validation: 00019 val_loss= 24.10217 val_acc= 0.58777 val_f1= 0.38963 
+Epoch: 000019 train_loss= 68.95050 
+Epoch: 20 
+Validation: 00020 val_loss= 22.26392 val_acc= 0.60658 val_f1= 0.43341 
+Epoch: 000020 train_loss= 68.36391 
+Epoch: 21 
+Validation: 00021 val_loss= 22.94585 val_acc= 0.60345 val_f1= 0.42561 
+Epoch: 000021 train_loss= 67.98802 
+Epoch: 22 
+Validation: 00022 val_loss= 20.49221 val_acc= 0.61599 val_f1= 0.47275 
+Epoch: 000022 train_loss= 68.33676 
+Epoch: 23 
+Validation: 00023 val_loss= 21.58208 val_acc= 0.62226 val_f1= 0.46562 
+Epoch: 000023 train_loss= 67.50928 
+Epoch: 24 
+Validation: 00024 val_loss= 23.56203 val_acc= 0.60502 val_f1= 0.43317 
+Epoch: 000024 train_loss= 67.02834 
+Epoch: 25 
+Validation: 00025 val_loss= 22.54672 val_acc= 0.60658 val_f1= 0.43336 
+Epoch: 000025 train_loss= 67.08768 
+Epoch: 26 
+Validation: 00026 val_loss= 25.56147 val_acc= 0.59248 val_f1= 0.39653 
+Epoch: 000026 train_loss= 66.51513 
+Epoch: 27 
+Validation: 00027 val_loss= 20.25560 val_acc= 0.63166 val_f1= 0.50843 
+Epoch: 000027 train_loss= 65.84349 
+Epoch: 28 
+Validation: 00028 val_loss= 21.88829 val_acc= 0.62069 val_f1= 0.46843 
+Epoch: 000028 train_loss= 65.12126 
+Epoch: 29 
+Validation: 00029 val_loss= 23.83345 val_acc= 0.61129 val_f1= 0.44100 
+Epoch: 000029 train_loss= 63.80727 
+Epoch: 30 
+Validation: 00030 val_loss= 22.36403 val_acc= 0.62069 val_f1= 0.46775 
+Epoch: 000030 train_loss= 63.90545 
+Epoch: 31 
+Validation: 00031 val_loss= 19.64006 val_acc= 0.65361 val_f1= 0.54705 
+Epoch: 000031 train_loss= 64.33465 
+Epoch: 32 
+Validation: 00032 val_loss= 20.72072 val_acc= 0.62226 val_f1= 0.49116 
+Epoch: 000032 train_loss= 62.91394 
+Epoch: 33 
+Validation: 00033 val_loss= 23.92610 val_acc= 0.61285 val_f1= 0.44568 
+Epoch: 000033 train_loss= 62.21032 
+Epoch: 34 
+Validation: 00034 val_loss= 21.14478 val_acc= 0.62696 val_f1= 0.48561 
+Epoch: 000034 train_loss= 62.72497 
+Epoch: 35 
+Validation: 00035 val_loss= 20.76093 val_acc= 0.63793 val_f1= 0.50511 
+Epoch: 000035 train_loss= 62.63995 
+Epoch: 36 
+Validation: 00036 val_loss= 26.27382 val_acc= 0.60815 val_f1= 0.42978 
+Epoch: 000036 train_loss= 61.75012 
+Epoch: 37 
+Validation: 00037 val_loss= 24.74945 val_acc= 0.60658 val_f1= 0.43397 
+Epoch: 000037 train_loss= 60.89286 
+Epoch: 38 
+Validation: 00038 val_loss= 20.56256 val_acc= 0.64107 val_f1= 0.51004 
+Epoch: 000038 train_loss= 61.24325 
+Epoch: 39 
+Validation: 00039 val_loss= 21.40263 val_acc= 0.63636 val_f1= 0.50403 
+Epoch: 000039 train_loss= 60.95267 
+Epoch: 40 
+Validation: 00040 val_loss= 26.43840 val_acc= 0.60188 val_f1= 0.41995 
+Epoch: 000040 train_loss= 60.36135 
+Epoch: 41 
+Validation: 00041 val_loss= 21.86272 val_acc= 0.63793 val_f1= 0.50207 
+Epoch: 000041 train_loss= 58.78558 
+Epoch: 42 
+Validation: 00042 val_loss= 19.39787 val_acc= 0.66928 val_f1= 0.58082 
+Epoch: 000042 train_loss= 60.77172 
+Epoch: 43 
+Validation: 00043 val_loss= 21.32716 val_acc= 0.63793 val_f1= 0.50825 
+Epoch: 000043 train_loss= 58.68937 
+Epoch: 44 
+Validation: 00044 val_loss= 22.42794 val_acc= 0.63009 val_f1= 0.48998 
+Epoch: 000044 train_loss= 58.89272 
+Epoch: 45 
+Validation: 00045 val_loss= 22.09723 val_acc= 0.63793 val_f1= 0.50013 
+Epoch: 000045 train_loss= 58.65469 
+Epoch: 46 
+Validation: 00046 val_loss= 20.69695 val_acc= 0.64890 val_f1= 0.53378 
+Epoch: 000046 train_loss= 57.61502 
+Epoch: 47 
+Validation: 00047 val_loss= 20.26313 val_acc= 0.65987 val_f1= 0.55173 
+Epoch: 000047 train_loss= 57.51591 
+Epoch: 48 
+Validation: 00048 val_loss= 24.61164 val_acc= 0.60815 val_f1= 0.44384 
+Epoch: 000048 train_loss= 57.63384 
+Epoch: 49 
+Validation: 00049 val_loss= 19.91571 val_acc= 0.66144 val_f1= 0.55669 
+Epoch: 000049 train_loss= 56.73185 
+Epoch: 50 
+Validation: 00050 val_loss= 22.65318 val_acc= 0.63323 val_f1= 0.49589 
+Epoch: 000050 train_loss= 57.24784 
+Optimization Finished!
+Test set results based max-val-acc pama: cost= 19.39787 accuracy= 0.66928 precision= 0.63575 recall= 0.60947 f-score= 0.58082 
+Test set results based min-loss-acc pama: cost= 19.39787 accuracy= 0.66928 precision= 0.63575 recall= 0.60947 f-score= 0.58082 
+Epoch: 01 
+Validation: 00001 val_loss= 27.11429 val_acc= 0.53448 val_f1= 0.23221 
+Epoch: 000001 train_loss= 100.22124 
+Epoch: 02 
+Validation: 00002 val_loss= 26.38943 val_acc= 0.53762 val_f1= 0.24814 
+Epoch: 000002 train_loss= 94.82246 
+Epoch: 03 
+Validation: 00003 val_loss= 25.07018 val_acc= 0.53448 val_f1= 0.23269 
+Epoch: 000003 train_loss= 91.89670 
+Epoch: 04 
+Validation: 00004 val_loss= 25.59097 val_acc= 0.54075 val_f1= 0.27038 
+Epoch: 000004 train_loss= 89.11467 
+Epoch: 05 
+Validation: 00005 val_loss= 23.79649 val_acc= 0.54075 val_f1= 0.26647 
+Epoch: 000005 train_loss= 86.64926 
+Epoch: 06 
+Validation: 00006 val_loss= 23.97307 val_acc= 0.56113 val_f1= 0.32725 
+Epoch: 000006 train_loss= 84.53478 
+Epoch: 07 
+Validation: 00007 val_loss= 23.06876 val_acc= 0.56897 val_f1= 0.35486 
+Epoch: 000007 train_loss= 82.48062 
+Epoch: 08 
+Validation: 00008 val_loss= 22.86589 val_acc= 0.56426 val_f1= 0.34379 
+Epoch: 000008 train_loss= 80.12635 
+Epoch: 09 
+Validation: 00009 val_loss= 22.55557 val_acc= 0.56897 val_f1= 0.35596 
+Epoch: 000009 train_loss= 78.98092 
+Epoch: 10 
+Validation: 00010 val_loss= 23.14672 val_acc= 0.56270 val_f1= 0.33230 
+Epoch: 000010 train_loss= 77.23134 
+Epoch: 11 
+Validation: 00011 val_loss= 21.72884 val_acc= 0.58150 val_f1= 0.38405 
+Epoch: 000011 train_loss= 76.66848 
+Epoch: 12 
+Validation: 00012 val_loss= 21.90630 val_acc= 0.58307 val_f1= 0.38502 
+Epoch: 000012 train_loss= 74.93131 
+Epoch: 13 
+Validation: 00013 val_loss= 21.72308 val_acc= 0.59248 val_f1= 0.41196 
+Epoch: 000013 train_loss= 74.48083 
+Epoch: 14 
+Validation: 00014 val_loss= 20.88439 val_acc= 0.61599 val_f1= 0.49303 
+Epoch: 000014 train_loss= 73.93322 
+Epoch: 15 
+Validation: 00015 val_loss= 21.65430 val_acc= 0.60502 val_f1= 0.43944 
+Epoch: 000015 train_loss= 71.84380 
+Epoch: 16 
+Validation: 00016 val_loss= 21.40097 val_acc= 0.61285 val_f1= 0.45944 
+Epoch: 000016 train_loss= 72.34152 
+Epoch: 17 
+Validation: 00017 val_loss= 22.13427 val_acc= 0.60031 val_f1= 0.42488 
+Epoch: 000017 train_loss= 70.17804 
+Epoch: 18 
+Validation: 00018 val_loss= 22.28215 val_acc= 0.60502 val_f1= 0.43454 
+Epoch: 000018 train_loss= 69.98666 
+Epoch: 19 
+Validation: 00019 val_loss= 22.08962 val_acc= 0.60502 val_f1= 0.43454 
+Epoch: 000019 train_loss= 68.77799 
+Epoch: 20 
+Epoch: 01 
+Validation: 00001 val_loss= 27.44836 val_acc= 0.53448 val_f1= 0.23221 
+Epoch: 000001 train_loss= 99.71379 
+Epoch: 02 
+Validation: 00002 val_loss= 26.56317 val_acc= 0.53448 val_f1= 0.23221 
+Epoch: 000002 train_loss= 94.82328 
+Epoch: 03 
+Validation: 00003 val_loss= 25.08211 val_acc= 0.53292 val_f1= 0.23200 
+Epoch: 000003 train_loss= 92.02513 
+Epoch: 04 
+Validation: 00004 val_loss= 25.14834 val_acc= 0.57367 val_f1= 0.38074 
+Epoch: 000004 train_loss= 89.26336 
+Epoch: 05 
+Validation: 00005 val_loss= 24.34880 val_acc= 0.55016 val_f1= 0.29840 
+Epoch: 000005 train_loss= 86.48321 
+Epoch: 06 
+Validation: 00006 val_loss= 23.38226 val_acc= 0.57053 val_f1= 0.35762 
+Epoch: 000006 train_loss= 84.40531 
+Epoch: 07 
+Validation: 00007 val_loss= 23.55864 val_acc= 0.57367 val_f1= 0.36634 
+Epoch: 000007 train_loss= 82.33686 
+Epoch: 08 
+Validation: 00008 val_loss= 23.00766 val_acc= 0.57680 val_f1= 0.40252 
+Epoch: 000008 train_loss= 80.71612 
+Epoch: 09 
+Validation: 00009 val_loss= 22.90821 val_acc= 0.57994 val_f1= 0.37395 
+Epoch: 000009 train_loss= 78.78191 
+Epoch: 10 
+Validation: 00010 val_loss= 24.56624 val_acc= 0.54702 val_f1= 0.28407 
+Epoch: 000010 train_loss= 76.54391 
+Epoch: 11 
+Validation: 00011 val_loss= 23.21243 val_acc= 0.56583 val_f1= 0.34163 
+Epoch: 000011 train_loss= 75.87492 
+Epoch: 12 
+Validation: 00012 val_loss= 25.15145 val_acc= 0.55643 val_f1= 0.30823 
+Epoch: 000012 train_loss= 73.64284 
+Epoch: 13 
+Validation: 00013 val_loss= 21.42065 val_acc= 0.59718 val_f1= 0.42161 
+Epoch: 000013 train_loss= 73.74891 
+Epoch: 14 
+Validation: 00014 val_loss= 22.06612 val_acc= 0.58777 val_f1= 0.39901 
+Epoch: 000014 train_loss= 72.25327 
+Epoch: 15 
+Validation: 00015 val_loss= 22.21211 val_acc= 0.58934 val_f1= 0.40220 
+Epoch: 000015 train_loss= 71.08471 
+Epoch: 16 
+Validation: 00016 val_loss= 22.84837 val_acc= 0.59718 val_f1= 0.41374 
+Epoch: 000016 train_loss= 70.79272 
+Epoch: 17 
+Validation: 00017 val_loss= 21.13587 val_acc= 0.60658 val_f1= 0.44047 
+Epoch: 000017 train_loss= 70.12815 
+Epoch: 18 
+Validation: 00018 val_loss= 21.96214 val_acc= 0.59248 val_f1= 0.40727 
+Epoch: 000018 train_loss= 69.40019 
+Epoch: 19 
+Validation: 00019 val_loss= 21.85347 val_acc= 0.59875 val_f1= 0.41955 
+Epoch: 000019 train_loss= 68.62593 
+Epoch: 20 
+Validation: 00020 val_loss= 20.28289 val_acc= 0.62069 val_f1= 0.47324 
+Epoch: 000020 train_loss= 68.92637 
+Epoch: 21 
+Validation: 00021 val_loss= 20.98346 val_acc= 0.63323 val_f1= 0.48741 
+Epoch: 000021 train_loss= 68.02811 
+Epoch: 22 
+Validation: 00022 val_loss= 20.55101 val_acc= 0.64107 val_f1= 0.50412 
+Epoch: 000022 train_loss= 67.58369 
+Epoch: 23 
+Validation: 00023 val_loss= 23.68726 val_acc= 0.59561 val_f1= 0.41091 
+Epoch: 000023 train_loss= 66.92665 
+Epoch: 24 
+Validation: 00024 val_loss= 21.24893 val_acc= 0.61599 val_f1= 0.45907 
+Epoch: 000024 train_loss= 65.73333 
+Epoch: 25 
+Validation: 00025 val_loss= 21.93203 val_acc= 0.60815 val_f1= 0.44132 
+Epoch: 000025 train_loss= 66.17147 
+Epoch: 26 
+Validation: 00026 val_loss= 21.04431 val_acc= 0.62382 val_f1= 0.47317 
+Epoch: 000026 train_loss= 65.25767 
+Epoch: 27 
+Validation: 00027 val_loss= 21.19207 val_acc= 0.62853 val_f1= 0.47853 
+Epoch: 000027 train_loss= 64.49468 
+Epoch: 28 
+Validation: 00028 val_loss= 26.52234 val_acc= 0.59404 val_f1= 0.39917 
+Epoch: 000028 train_loss= 64.00864 
+Epoch: 29 
+Validation: 00029 val_loss= 24.35385 val_acc= 0.60658 val_f1= 0.42873 
+Epoch: 000029 train_loss= 63.73566 
+Epoch: 30 
+Validation: 00030 val_loss= 22.28718 val_acc= 0.61599 val_f1= 0.45984 
+Epoch: 000030 train_loss= 64.26035 
+Epoch: 31 
+Validation: 00031 val_loss= 26.01085 val_acc= 0.60188 val_f1= 0.41806 
+Epoch: 000031 train_loss= 62.73437 
+Epoch: 32 
+Validation: 00032 val_loss= 21.56807 val_acc= 0.63323 val_f1= 0.49422 
+Epoch: 000032 train_loss= 63.31206 
+Epoch: 33 
+Validation: 00033 val_loss= 19.55198 val_acc= 0.64107 val_f1= 0.51544 
+Epoch: 000033 train_loss= 62.46132 
+Epoch: 34 
+Validation: 00034 val_loss= 21.66053 val_acc= 0.62539 val_f1= 0.47299 
+Epoch: 000034 train_loss= 61.86063 
+Epoch: 35 
+Validation: 00035 val_loss= 18.72200 val_acc= 0.67085 val_f1= 0.58305 
+Epoch: 000035 train_loss= 61.99549 
+Epoch: 36 
+Validation: 00036 val_loss= 19.81304 val_acc= 0.64107 val_f1= 0.51581 
+Epoch: 000036 train_loss= 61.76684 
+Epoch: 37 
+Validation: 00037 val_loss= 20.60187 val_acc= 0.63793 val_f1= 0.50407 
+Epoch: 000037 train_loss= 60.58744 
+Epoch: 38 
+Validation: 00038 val_loss= 26.23729 val_acc= 0.60815 val_f1= 0.42932 
+Epoch: 000038 train_loss= 59.26390 
+Epoch: 39 
+Validation: 00039 val_loss= 22.51722 val_acc= 0.63166 val_f1= 0.48362 
+Epoch: 000039 train_loss= 59.89466 
+Epoch: 40 
+Validation: 00040 val_loss= 20.41105 val_acc= 0.64577 val_f1= 0.51805 
+Epoch: 000040 train_loss= 59.56713 
+Epoch: 41 
+Validation: 00041 val_loss= 22.81992 val_acc= 0.63323 val_f1= 0.49236 
+Epoch: 000041 train_loss= 58.95248 
+Epoch: 42 
+Validation: 00042 val_loss= 21.92581 val_acc= 0.63636 val_f1= 0.49516 
+Epoch: 000042 train_loss= 58.41395 
+Epoch: 43 
+Validation: 00043 val_loss= 25.84451 val_acc= 0.61129 val_f1= 0.43541 
+Epoch: 000043 train_loss= 57.56190 
+Epoch: 44 
+Validation: 00044 val_loss= 23.55448 val_acc= 0.62382 val_f1= 0.46357 
+Epoch: 000044 train_loss= 57.85258 
+Epoch: 45 
+Validation: 00045 val_loss= 24.19747 val_acc= 0.62226 val_f1= 0.46939 
+Epoch: 000045 train_loss= 57.42665 
+Epoch: 46 
+Validation: 00046 val_loss= 22.17928 val_acc= 0.63166 val_f1= 0.49271 
+Epoch: 000046 train_loss= 58.33462 
+Epoch: 47 
+Validation: 00047 val_loss= 22.18176 val_acc= 0.64263 val_f1= 0.50748 
+Epoch: 000047 train_loss= 57.02893 
+Epoch: 48 
+Validation: 00048 val_loss= 25.39724 val_acc= 0.61912 val_f1= 0.45197 
+Epoch: 000048 train_loss= 57.05619 
+Epoch: 49 
+Validation: 00049 val_loss= 22.30859 val_acc= 0.63636 val_f1= 0.49743 
+Epoch: 000049 train_loss= 57.03502 
+Epoch: 50 
+Validation: 00050 val_loss= 25.37839 val_acc= 0.61442 val_f1= 0.44665 
+Epoch: 000050 train_loss= 55.96564 
+Optimization Finished!
+Test set results based max-val-acc pama: cost= 18.72200 accuracy= 0.67085 precision= 0.62848 recall= 0.60304 f-score= 0.58305 
+Test set results based min-loss-acc pama: cost= 18.72200 accuracy= 0.67085 precision= 0.62848 recall= 0.60304 f-score= 0.58305 
